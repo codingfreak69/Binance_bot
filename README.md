@@ -1,3 +1,15 @@
+# for running in the local host server 
+  
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
+
+
+
 # Binance USDT-M Futures Testnet CLI Trading Bot
 
 A robust, modular, and fully tested Python CLI trading bot designed to safely place Market, Limit, and Stop-Limit orders on the Binance USDT-M Futures Testnet. It compiles high-integrity parameter validation, unified structured logging (`logs/bot.log`), connection health tests, and detailed CLI execution summaries in a "risk-free" simulated testnet environment.
