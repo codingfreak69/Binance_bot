@@ -1,0 +1,6 @@
+{
+  "name": "Binance Futures CLI Bot",
+  "description": "A modular Python CLI Trading Bot for the Binance USDT-M Futures Testnet. Features an interactive code explorer, file-based logging viewer, real-time command execution, and a configuration panel to track market, limit, and stop-limit orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
